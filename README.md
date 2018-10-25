@@ -1,5 +1,4 @@
-# project2
-The lads tackle project #2
+Times Square - Expense Manager 
 
 Notes:
 Try and use this to log all our processes
